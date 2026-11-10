@@ -1,6 +1,6 @@
-# RupeeFlow — Personal Finance Management Platform
+# EasyRupee — Personal Finance Management Platform
 
-RupeeFlow (branded **EasyRupee** in the UI) is a full-stack digital wallet and personal finance web app. Users can register, hold a wallet balance in PKR, send money to other wallets, pay merchant bills, repay loans, and track their expenses, all from one dashboard.
+EasyRupee is a full-stack digital wallet and personal finance web app. Users can register, hold a wallet balance in PKR, send money to other wallets, pay merchant bills, repay loans, and track their expenses, all from one dashboard.
 
 > *"Your finances simplified. Send money, pay bills, and save securely."*
 
